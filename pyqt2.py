@@ -2,7 +2,7 @@ from pyqt import *
 from sql_exe import *
 from psycopg2 import errors
 # from table_inputs_handler import *
-
+#zmena
 class returnIsNone(Exception):
     pass
 
